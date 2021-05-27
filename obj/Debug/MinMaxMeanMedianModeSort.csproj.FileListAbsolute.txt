@@ -1,0 +1,10 @@
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\bin\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\MinMaxMeanMedianModeSort.csprojAssemblyReference.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\SelectionSort.MinMaxMedianModeSortForm.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\MinMaxMeanMedianModeSort.csproj.GenerateResource.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\MinMaxMeanMedianModeSort.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Final Version\MinMaxMeanMedianModeSortFinal\obj\Debug\SelectionSort.pdb

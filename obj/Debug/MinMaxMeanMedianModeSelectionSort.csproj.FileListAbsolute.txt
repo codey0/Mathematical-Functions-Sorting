@@ -1,0 +1,40 @@
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.MinMaxMedianModeSelectionSortForm.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.MinMaxMedianModeSelectionSortForm.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.MinMaxMedianModeSelectionSortForm.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.MinMaxMedianModeSelectionSortForm.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MinMaxMeanMedianModeSelectionSort - Working Copy\MinMaxMeanMedianModeSelectionSort\obj\Debug\MinMaxMeanMedianModeSelectionSort.csprojAssemblyReference.cache

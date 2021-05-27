@@ -1,0 +1,10 @@
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\MathematicalFunctions.csprojAssemblyReference.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\MathemticalFunctions.MathematicalFunctionsForm.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\MathematicalFunctions.csproj.GenerateResource.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\MathematicalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\obj\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\MathematicalFunctions - Working Copy\MathematicalFunctions - Working Copy\bin\Debug\SelectionSort.pdb
